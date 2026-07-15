@@ -61,8 +61,8 @@ Tenho experiência no desenvolvimento de aplicações web modernas, atuando tant
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorallvess&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorallvess&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorallvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Erivan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorallvess&layout=compact&theme=dark" alt="Linguagens mais usadas por Erivan" />
 </div>
 
 ---
