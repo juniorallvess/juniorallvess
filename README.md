@@ -1,91 +1,136 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Erivan%20Junior&subtitle=Full%20Stack%20Developer&fontSize=50&dep=10&fontAlignY=40&effects=heartbeat" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=220&text=ERIVAN%20JUNIOR&fontColor=00FF41&fontSize=64&fontAlign=50&fontAlignY=42&desc=//%20FULL%20STACK%20DEVELOPER&descSize=22&descAlign=50&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=10" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=555555&height=10" width="100%" />
+
+<br/>
+
+<a href="https://github.com/juniorallvess">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=900&color=00FF41&background=0D0D0D&center=true&vCenter=true&width=700&height=60&squareFill=true&lines=%3E+DESENVOLVEDOR+FULL+STACK;%3E+APAIXONADO+POR+TECNOLOGIA;%3E+CRIANDO+SOLU%C3%87%C3%95ES+ESCAL%C3%81VEIS;%3E+C%C3%93DIGO+LIMPO.+SEM+ENFEITE." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/juniorallvess?label=SEGUIDORES&style=for-the-badge&labelColor=2b2b2b&color=00FF41&logo=github&logoColor=white" />
+
 </div>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  STATUS ......... ONLINE                                 │
+│  FUNÇÃO ......... FULL STACK DEVELOPER                   │
+│  FOCO ........... WEB MODERNA / BACK-END ROBUSTO         │
+│  MODO ........... SEMPRE ABERTO A NOVOS DESAFIOS         │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## ▌01 / SOBRE MIM
+
+```text
+████████████████████████████████████████████████████████████
+```
+
+Desenvolvo aplicações web modernas, no **front-end** e no **back-end**.
+Busco aprimorar minhas habilidades o tempo todo e seguir as melhores práticas
+para entregar soluções **robustas**, **performáticas** e de **alta qualidade**.
+
+> `FUNCIONAL > BONITO.` `SIMPLES > COMPLICADO.` `ENTREGUE > PERFEITO.`
+
+<br/>
+
+## ▌02 / STACK
+
+```text
+████████████████████████████████████████████████████████████
+```
+
+### `[ FRONT-END ]`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REACT.JS-2b2b2b?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/NEXT.JS-2b2b2b?style=for-the-badge&logo=nextdotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-2b2b2b?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-2b2b2b?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=for-the-badge&logo=css3&logoColor=00FF41" />
+</p>
+
+### `[ BACK-END ]`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVA-2b2b2b?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-2b2b2b?style=for-the-badge&logo=springboot&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/APIs%20RESTFUL-2b2b2b?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MICROSSERVI%C3%87OS-2b2b2b?style=for-the-badge&logo=docker&logoColor=00FF41" />
+</p>
+
+### `[ BANCO DE DADOS ]`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MYSQL-2b2b2b?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MARIADB-2b2b2b?style=for-the-badge&logo=mariadb&logoColor=00FF41" />
+</p>
+
+<br/>
+
+## ▌03 / OBJETIVOS
+
+```text
+████████████████████████████████████████████████████████████
+```
+
+```text
+[01]  APRENDER NOVAS TECNOLOGIAS E ARQUITETURAS
+[02]  CONTRIBUIR PARA PROJETOS OPEN SOURCE
+[03]  COMPARTILHAR CONHECIMENTO COM A COMUNIDADE
+[04]  DESENVOLVER APLICAÇÕES QUE GEREM IMPACTO POSITIVO
+```
+
+<br/>
+
+## ▌04 / ESTATÍSTICAS
+
+```text
+████████████████████████████████████████████████████████████
+```
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Criando+soluções+escaláveis)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://github.com/juniorallvess">
-      <img src="https://img.shields.io/github/followers/juniorallvess?label=Seguidores&style=for-the-badge&color=5f5faf" />
-    </a>
-  </p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juniorallvess&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=0&border_color=00FF41&bg_color=0D0D0D&title_color=00FF41&icon_color=00FF41&text_color=BDBDBD" alt="Estatísticas do GitHub de Erivan" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorallvess&layout=compact&hide_border=false&border_radius=0&border_color=00FF41&bg_color=0D0D0D&title_color=00FF41&text_color=BDBDBD" alt="Linguagens mais usadas por Erivan" />
 </div>
 
----
+<br/>
 
-## 💡 Sobre mim
+## ▌05 / CONTATO
 
-Tenho experiência no desenvolvimento de aplicações web modernas, atuando tanto no front-end quanto no back-end. Busco constantemente aprimorar minhas habilidades e acompanhar as melhores práticas de desenvolvimento para entregar soluções robustas, performáticas e de alta qualidade.
+```text
+████████████████████████████████████████████████████████████
+```
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Back-end
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs_RESTful-009688?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsserviços-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-### Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
-
----
-
-## 🎯 Objetivos
-
-* 🚀 Aprender novas tecnologias e arquiteturas
-* 🤝 Contribuir para projetos open source
-* 📚 Compartilhar conhecimento com a comunidade
-* 💡 Desenvolver aplicações que gerem impacto positivo
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorallvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Erivan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorallvess&layout=compact&theme=dark" alt="Linguagens mais usadas por Erivan" />
-</div>
-
----
-
-## 📫 Contato
-
-Fique à vontade para explorar meus projetos e conectar-se comigo!
-
-*(Dica: adicione aqui abaixo os links para as suas redes sociais preferidas substituindo os links `#` abaixo)*
+Explore os projetos, abra uma issue ou me chame para conversar.
 
 <p align="left">
   <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
   <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--MAIL-2b2b2b?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
 </p>
 
-⭐ **Sempre aberto a novos desafios e oportunidades de aprendizado.**
+<!-- TODO: troque SEU-LINK-AQUI pelo seu perfil do LinkedIn e seu-email@gmail.com pelo seu e-mail real. -->
 
----
+<br/>
 
 <div align="center">
-  Feito com ☕ e código por Erivan Junior
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=555555&height=10" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=10" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=90&text=FEITO%20COM%20CAF%C3%89%20E%20C%C3%93DIGO%20//%20ERIVAN%20JUNIOR&fontColor=00FF41&fontSize=20&fontAlign=50&fontAlignY=50" width="100%" />
+
 </div>
